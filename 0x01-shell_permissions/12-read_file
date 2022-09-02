@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R 644 dir-0 dir--0 dir---0
